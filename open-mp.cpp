@@ -8,7 +8,7 @@
 using namespace std;
 
 char* FILE_PATH = "./input/4000000.in";
-#define NUM_THREADS 32
+#define NUM_THREADS 16
 
 long double solve(
     int n, 
